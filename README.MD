@@ -1,3 +1,11 @@
+# STORE API
+
+## Advanced filtering, sorting and dynamically populating databases.
+
+
+
+### Notes:
+
 Q. What is express.Js?
 A. It is a routing and middleware web framework.
 Q. What is middleware?
@@ -31,3 +39,4 @@ B. Implement Version Control:
 C. Connect databse (MongoDb Atlas):
 
 1. 
+
